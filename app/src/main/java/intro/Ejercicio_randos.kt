@@ -17,5 +17,22 @@ fun main() {
     }else{
         println("EL número  no está dentro del rango")
     }
+    //Ahora con letras
+    println("Ingrese su letra")
+    var letra:String= readln().toString().uppercase()
+   //
+    // var char ="a" downTo("u")
+    var n2 = 1..10
+
+    //
+    var result:Int = (0..50).random()
+    print(result)
+    when (result){
+        //Aqui se realiza un switch
+        0-> print("No hay resultados")
+        1,2,3,4,5,6 -> println("El resultado esta enre 1  y 6")
+    }
+
+
 
 }
