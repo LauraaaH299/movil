@@ -24,9 +24,9 @@ fun main() {
 
         "resta" -> print("La resta es ${a-b}")
 
-        "multiplicacion" -> print("La resta es ${a*b}")
+        "multiplicacion" -> print("La multiplicacion es ${a*b}")
 
-        "division" -> print("La resta es ${a/b}")
+        "division" -> print("La division es ${a/b}")
 
         "potencia" -> print("Los números al cuadrado son ${a.pow(2)} y ${b.pow(2)}")
 
@@ -36,3 +36,6 @@ fun main() {
 
     }
 }
+
+//indeterminados while y do while
+// Determinados for
