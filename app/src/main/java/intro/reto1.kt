@@ -1,6 +1,6 @@
 package intro
 
-class reto1 {
+class Reto1 {
 }
 
 fun conversion(faren:Double): Double{

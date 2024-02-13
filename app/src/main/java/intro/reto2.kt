@@ -1,6 +1,6 @@
 package intro
 
-class reto2 {
+class Reto2 {
 }
 
 fun dosisvacuna(pesobebe:Double,mesesbebe:Int): Double{
