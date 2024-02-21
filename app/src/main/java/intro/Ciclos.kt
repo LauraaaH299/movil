@@ -1,4 +1,0 @@
-package intro
-
-class Ciclos {
-}

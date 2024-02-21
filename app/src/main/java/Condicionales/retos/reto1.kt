@@ -1,4 +1,4 @@
-package intro
+package Condicionales.retos
 
 class Reto1 {
 }

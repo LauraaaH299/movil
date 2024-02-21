@@ -1,4 +1,4 @@
-package intro
+package Condicionales
 
 class Ejercicio_randos {
 }

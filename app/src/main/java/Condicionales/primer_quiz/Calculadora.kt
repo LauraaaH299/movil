@@ -1,4 +1,4 @@
-package intro
+package Condicionales.primer_quiz
 import kotlin.math.pow
 import kotlin.math.sqrt
 
@@ -20,6 +20,8 @@ fun main() {
 
     when (operacion){
         //Aqui se realiza un switch
+
+
         "suma"->   print("La suma es ${a+b}")
 
         "resta" -> print("La resta es ${a-b}")
@@ -38,4 +40,4 @@ fun main() {
 }
 
 //indeterminados while y do while
-// Determinados for
+// Determinados for, swithc copndiconal multiple

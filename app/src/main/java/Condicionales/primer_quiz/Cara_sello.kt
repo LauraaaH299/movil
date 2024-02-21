@@ -1,4 +1,4 @@
-package intro
+package Condicionales.primer_quiz
 
 class Cara_sello {
 
@@ -9,6 +9,7 @@ class Cara_sello {
 fun main() {
     println("Cuantas veces quiere jugar")
     var n: Int = readln().toInt()
+
     var i: Int = 0
     while (i<n){
         println("Escriba cara o sello")
